@@ -9,8 +9,7 @@ from discord.utils import get,find
 import random
 
 import time
-import systems as sys
-import events
+
 
 
 
