@@ -5,7 +5,7 @@ import json
 import requests as rq
 import os
 from discord.utils import get,find
-import apiai
+
 import random
 import msg_track
 import time
