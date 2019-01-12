@@ -200,4 +200,4 @@ if __name__ == "__main__":
         # except Exception as error:
             # print("Unable to load extension {} error {}".format(extension, error))
 
-    bot.run(bot_token)
+    bot.run(os.environ['BOT_TOKEN'])
